@@ -1,0 +1,26 @@
+{
+	"name": "apis",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/M4Y50N/APIs.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/M4Y50N/APIs/issues"
+	},
+	"homepage": "https://github.com/M4Y50N/APIs#readme",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"cheerio": "^1.0.0-rc.11",
+		"express": "^4.18.1",
+		"nodemon": "^2.0.16"
+	}
+}
